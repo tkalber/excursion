@@ -2,7 +2,7 @@
 
 /* Universal Styles */
 * {
-  font-family: Verdana;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 16px;
   color: white;
   background-color: black;
@@ -26,12 +26,9 @@ p {
 }
 
 a {
-  color: turquoise;
+  color: aquamarine;
 }
 
-video {
-  max-width: 30%;
-}
 
 
 
