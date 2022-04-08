@@ -29,7 +29,9 @@ a {
   color: turquoise;
 }
 
-
+video {
+  max-width: 30%;
+}
 
 
 
